@@ -1,0 +1,71 @@
+[33mcommit 5d3ade6f9e26c34f829354209982f8a008dfc2bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 20:31:28 2021 +0400
+
+    New Head
+
+[33mcommit be49be00dc79b91cb48b1f196cac155a58fb67a0[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 20:27:53 2021 +0400
+
+    added New Head
+
+[33mcommit ab5fba95c73675725b11b4200fab889695a76788[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 20:21:33 2021 +0400
+
+    init index.html and css style
+
+[33mcommit 67896275bc914d5e5236ec5096c569d5e6b62f8c[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 08:28:45 2021 +0400
+
+    Long for now
+    
+    old
+
+[33mcommit caf7d0388bcb912917d0ea8f59959a6b130656a5[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 08:19:29 2021 +0400
+
+    html file was deleted
+
+[33mcommit 81ae4adeb58b63f94cf1baf4fd355949962d9621[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Thu Jul 15 08:16:53 2021 +0400
+
+    short Desc.
+    
+    Long Desc.
+
+[33mcommit 7682842a2b1592ad7e9c8e917c747bb6aba84449[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Wed Jul 14 14:52:49 2021 +0400
+
+    Ad gitignore
+
+[33mcommit b6c509a0c344353d267f34245b488a7c69367241[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Wed Jul 14 14:47:25 2021 +0400
+
+    Refactor code.
+
+[33mcommit d7d2f33d60a3b0222bfb7c9f42a076edc5c59b95[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Wed Jul 14 14:44:00 2021 +0400
+
+    Remove unused code.
+
+[33mcommit 0681e84b575223cd8749fc15979705398aef3742[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Wed Jul 14 14:22:12 2021 +0400
+
+    Fix the bug that prevented the users from signing out.
+
+[33mcommit ba4840785a8248e8d1c26f670a7723f6e50c0d78[m
+Author: Ar1stoteles <20100274@ibsu.edu.ge>
+Date:   Wed Jul 14 14:06:04 2021 +0400
+
+    Initial commit.
+    
+    This is our first commit.
