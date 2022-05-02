@@ -1,0 +1,42 @@
+{
+    "name": "Noveltists on Rise",
+    "symbol": "Aristotele",
+    "description": "Digital aristotele",
+    "seller_fee_basis_points": 1000,
+    "image": "https://github.com/Ar1stotele/Ar1stotele/blob/master/aristotele.png?raw=true",
+    "external_url": "https://novelty.today/",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Brown"
+      }
+    ],
+    "collection": {
+      "name": "Creamy Friends",
+      "family": "CryptoCream"
+    },
+    "properties": {
+      "edition": 1,
+      "files": [
+        {
+          "uri": "https://github.com/Ar1stotele/Ar1stotele/blob/master/aristotele.png?raw=true",
+          "type": "image/png"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "4wfb1zDNtd7gbHpKheKCAzMqdHctgfUWj58ix6y2Aw1G",
+          "share": 100
+        }
+      ]
+    }
+  }
