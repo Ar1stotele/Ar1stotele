@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ar1stotele
-- 👀 I’m interested in Front-End development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Front-End and Back-end development
+- 🌱 I’m currently developing software using Node JS and React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: 20100274@ibsu.edu.ge
 
